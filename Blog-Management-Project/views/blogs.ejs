@@ -1,0 +1,13 @@
+<%-include('partials/header') %>
+
+<h2>All Blogs</h2>
+<ul>
+    <% blogs.forEach(blog => { %>
+        <li>
+            <a href="/blogs/<%= blog._id %>"><%= blog.title %></a> by <b><%= blog.author %></b>
+            <a href="/delete/<%= blog._id %>" class="delete-btn">Delete</a>
+        </li>
+    <% }) %>
+</ul>
+
+<%- include('partials/footer') %>

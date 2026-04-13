@@ -1,0 +1,14 @@
+<%- include('partials/header') %>
+
+<h2><%= blog.title %</h2>
+<p><%= blog.content %></p>
+<p><b>Author:</b><%= blog.author %></p>
+<% if(blog.author === 'Admin') { %>
+    <p style="color: red;">Admin  Access: You can edit or delete the blog</p>
+<% } else { %>
+    <p>Regular User Blog-Read Only Mode</p>
+<% } %>
+
+<a href="/blog">Back to all blogs</a>
+
+<%- include('partials/footer') %>
