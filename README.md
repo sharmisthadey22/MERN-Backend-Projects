@@ -41,5 +41,5 @@ Demonstrates proficiency in secure CRUD operations and session management.
 ---
 
 ## 📫 Connect with Me
-* *LinkedIn:* [sharmistha-dey-475a3a3a6 ] 
+* *LinkedIn:* [https://www.linkedin.com/in/sharmistha-dey-475a3a3a6/] 
 * *Goal:* Seeking a High-Impact Remote Backend Role / Opportunities Abroad.
