@@ -3,6 +3,10 @@
 Passionate Backend Developer focused on building secure, scalable, and high-performance web architectures. I specialize in the *MERN Stack* and *Next.js*, with a deep focus on API security and business logic.
 
 ---
+​🚀 Current Project: Karunam (Health-Tech)
+​Developed backend for Blood Test reporting using Node.js and SQL.
+​Live Demo (Blood Test Module): [https://karunam.vercel.app/]
+​Note: ECG module is currently under development.
 
 ## 🛠 Technical Expertise
 
